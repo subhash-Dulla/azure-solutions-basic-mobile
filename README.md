@@ -3,12 +3,12 @@ This Azure Resource Template project was created using the tooling in Visual Stu
 
 The template deploys a set of resources that collectively provide a sample architecture for a mobile application.
 
-# Create a basic e-commerce site infrastructure using a template
+# Create a basic mobile app using a template
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBritBoy70%2Fazure-solutions-basic-ecommerce%2Fmaster%2FSaaSecommerce%2FTemplates%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBritBoy70%2Fazure-solutions-basic-mobile%2Fmaster%2FMobileApp%2FTemplates%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/BritBoy70/azure-solutions-basic-ecommerce/master/SaaSecommerce/Templates/azuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FBritBoy70%2Fazure-solutions-basic-mobile%2Fmaster%2FMobileApp%2FTemplates%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
